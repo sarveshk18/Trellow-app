@@ -1,0 +1,15 @@
+.boardContainer {
+  margin: 40px;
+}
+
+.contentWrapper {
+  border: solid 1px;
+}
+
+.cardWrapper {
+  padding-top: 40px;
+}
+
+.bottomSpace {
+  height: 40px;
+}
